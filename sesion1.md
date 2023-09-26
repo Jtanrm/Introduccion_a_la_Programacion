@@ -120,7 +120,7 @@ Aquí hay una descripción más detallada de cada uno de estos términos:
 
 Algunos ejemplos:
 
-[tabla2](image-1.png)
+![tabla2](image-1.png)
 
 ## 9. ¿Qué es un enlace o URL? Tipos de URL y extensiones de archivo
 
