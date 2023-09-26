@@ -74,7 +74,8 @@ Los desarrolladores web pueden especializarse en cualquiera de los dos tipos de 
 
 El desarrollo web es una profesión en crecimiento, ya que cada vez más empresas y organizaciones necesitan crear y mantener sitios web. Los desarrolladores web pueden encontrar empleo en una variedad de industrias, incluyendo la tecnología, el comercio minorista, la atención médica y la educación.
 
-6. Accesibilidad web
+## 6. Accesibilidad web
+
 La accesibilidad web es el proceso de hacer que los sitios web y las aplicaciones web sean accesibles para todas las personas, independientemente de sus capacidades. Esto incluye a las personas con discapacidades visuales, auditivas, motoras y cognitivas.
 
 Los sitios web accesibles están diseñados para que puedan ser utilizados por todas las personas, sin necesidad de adaptaciones especiales. Esto significa que deben ser fáciles de navegar, leer y entender. Los sitios web accesibles también deben ser compatibles con una variedad de dispositivos, como computadoras, teléfonos inteligentes y tabletas.
@@ -83,7 +84,8 @@ Hay una serie de cosas que se pueden hacer para que un sitio web sea accesible. 
 
 Utilizar texto alternativo para las imágenes. Proporcionar subtítulos para los videos. Utilizar un diseño de teclado. Proporcionar una navegación fácil de usar. Utilizar colores y contrastes que sean fáciles de ver. Evitar el uso de animaciones y efectos que puedan distraer o ser difíciles de ver. La accesibilidad web es importante porque permite que todas las personas tengan acceso a la información y los servicios que se ofrecen en línea. También es importante desde el punto de vista ético, ya que garantiza que todas las personas tengan la misma oportunidad de participar en la sociedad digital.
 
-7. Diferencias entre aplicaciones web, móviles, de escritorio e híbridas
+## 7. Diferencias entre aplicaciones web, móviles, de escritorio e híbridas
+
 Una aplicación web es una aplicación que se ejecuta en un navegador web. Las aplicaciones web son generalmente menos potentes que las aplicaciones móviles o de escritorio, pero tienen la ventaja de ser accesibles desde cualquier dispositivo con conexión a Internet.
 
 Una aplicación móvil es una aplicación que está diseñada para ser utilizada en un dispositivo móvil, como un teléfono inteligente o una tableta. Las aplicaciones móviles suelen ser más potentes que las aplicaciones web y pueden acceder a las funciones del dispositivo móvil, como la cámara, el GPS y el teclado.
@@ -94,15 +96,9 @@ Una aplicación híbrida es una aplicación que se puede ejecutar tanto en dispo
 
 A continuación se muestra una tabla que resume las principales diferencias entre las aplicaciones web, móviles, de escritorio e híbridas:
 
-Característica	Aplicaciones web	Aplicaciones móviles	Aplicaciones de escritorio	Aplicaciones híbridas
-Sistema operativo	Cualquier sistema operativo con navegador web	Android, iOS, Windows Phone	Windows, macOS, Linux	Android, iOS, Windows Phone, Windows, macOS, Linux
-Características	Limitadas	Potentes	Potentes	Potentes
-Desarrollo	Fácil	Difícil	Difícil	Fácil
-Mantenimiento	Fácil	Difícil	Difícil	Fácil
-Portabilidad	Alta	Baja	Baja	Alta
-Coste	Bajo	Alto	Alto	Bajo
+![tabla](image.png)
 
-8. ¿Qué es un dominio, un subdominio, una extensión de dominio, un hosting y tipos de hosting?
+1. ¿Qué es un dominio, un subdominio, una extensión de dominio, un hosting y tipos de hosting?
 Un dominio es el nombre de un sitio web en la web. Por ejemplo, el dominio de este sitio web es "www.google.com". Un subdominio es un nombre de dominio que se encuentra debajo de un dominio principal. Por ejemplo, el subdominio de este sitio web es "www". Una extensión de dominio es la parte final de un nombre de dominio. Por ejemplo, la extensión de dominio de este sitio web es ".com". El hosting es el servicio que proporciona espacio en un servidor para almacenar los archivos de un sitio web. Hay varios tipos de hosting, incluyendo el hosting compartido, el hosting dedicado y el hosting en la nube.
 
 Aquí hay una descripción más detallada de cada uno de estos términos:
