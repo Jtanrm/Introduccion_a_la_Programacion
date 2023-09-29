@@ -135,9 +135,11 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
   
 * <head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
   
-* <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente utilizado y admite caracteres de diferentes idiomas).
+* <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente 
+  utilizado y admite caracteres de diferentes idiomas).
   
-* <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
+* <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración
+ de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
   
 * <title>: Define el título de la página que se muestra en la barra de título del navegador.
  
