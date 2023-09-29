@@ -88,4 +88,12 @@ Los elementos HTML se pueden anidar, lo que significa que se pueden colocar uno 
 
 Los elementos HTML son una parte importante del lenguaje HTML. Se utilizan para crear la estructura de una página web y para mostrar el contenido de una página web.
 
-![image-3.png](image-2.png) 
+![image-3.png](image-2.png)
+
+## Anidamiento de elementos HTM
+
+El anidamiento de elementos HTML es el proceso de colocar un elemento HTML dentro de otro elemento HTML. Este es un concepto importante en el lenguaje HTML, ya que permite crear estructuras complejas de contenido web.
+
+Para anidar elementos HTML, simplemente abre el elemento padre y luego abre el elemento hijo dentro del elemento padre. Cuando hayas terminado de usar el elemento hijo, ciérralo.
+
+Por ejemplo, el siguiente código muestra cómo anidar un elemento p dentro de un elemento div:
