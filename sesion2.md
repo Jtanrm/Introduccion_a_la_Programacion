@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
-# Editores de código para desarrollo web
+## Editores de código para desarrollo web
 
 **Visual Studio Code:**
 
@@ -131,24 +131,24 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
 
  - <!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
   
- -<html>: Elemento raíz que engloba todo el contenido HTML.
+ - <html>: Elemento raíz que engloba todo el contenido HTML.
   
- -<head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
+ - <head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
   
- -<meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente 
-  utilizado y admite caracteres de diferentes idiomas).
+ - <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente 
+    utilizado y admite caracteres de diferentes idiomas).
   
- -<meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración
+ - <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración
 
- de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
+    de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
   
- -<title>: Define el título de la página que se muestra en la barra de título del navegador.
+ - <title>: Define el título de la página que se muestra en la barra de título del navegador.
  
- -<body>: Contiene el contenido visible de la página.
+ - <body>: Contiene el contenido visible de la página.
   
- -<h1>: Encabezado de nivel 1, utilizado para títulos importantes.
+ - <h1>: Encabezado de nivel 1, utilizado para títulos importantes.
  
- -<p>: Párrafo, para insertar texto y contenido.
+ - <p>: Párrafo, para insertar texto y contenido.
   
 ## <!DOCTYPE html>
 
