@@ -88,4 +88,4 @@ Los elementos HTML se pueden anidar, lo que significa que se pueden colocar uno 
 
 Los elementos HTML son una parte importante del lenguaje HTML. Se utilizan para crear la estructura de una página web y para mostrar el contenido de una página web.
 
-!(image-3.png)(image-2.png)
+![image-3.png](image-2.png) 
