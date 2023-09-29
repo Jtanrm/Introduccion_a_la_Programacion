@@ -129,7 +129,7 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
 
 ### Explicación:
 
- <!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
+ - <!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
   
  <html>: Elemento raíz que engloba todo el contenido HTML.
   
