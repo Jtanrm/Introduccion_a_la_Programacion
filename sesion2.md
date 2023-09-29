@@ -97,3 +97,6 @@ El anidamiento de elementos HTML es el proceso de colocar un elemento HTML dentr
 Para anidar elementos HTML, simplemente abre el elemento padre y luego abre el elemento hijo dentro del elemento padre. Cuando hayas terminado de usar el elemento hijo, ciérralo.
 
 Por ejemplo, el siguiente código muestra cómo anidar un elemento p dentro de un elemento div:
+
+
+![](image-4.png)
