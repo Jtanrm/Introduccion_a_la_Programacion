@@ -100,3 +100,70 @@ Por ejemplo, el siguiente código muestra cómo anidar un elemento p dentro de u
 
 
 ![](image-4.png)
+
+El elemento div es el elemento padre y el elemento p es el elemento hijo. El elemento p se encuentra dentro del elemento div.
+
+Puedes anidar elementos HTML de cualquier manera que desees. Sin embargo, es importante tener en cuenta que la estructura de tu contenido web debe ser lógica y fácil de entender.
+
+El anidamiento de elementos HTML puede ser una herramienta poderosa para crear estructuras complejas de contenido web. Sin embargo, es importante usarlo de manera responsable.
+
+## Comentarios HTML
+
+Los comentarios HTML son una forma de agregar notas al código HTML que no se mostrarán en la página web. Se pueden usar para proporcionar información sobre el código, explicar el propósito de una sección de código o simplemente para hacer anotaciones.
+
+Los comentarios HTML se escriben entre el símbolo de signo menos (-) y el signo mayor (>). Pueden ser una línea o múltiples líneas.
+
+Un comentario de una sola línea se vería así:
+
+![](image-5.png)
+
+Un comentario de varias líneas se vería así:
+
+![](image-6.png)
+
+## Estructura básica de un documento HTML5
+
+La estructura básica de un documento HTML5 consta de las etiquetas esenciales que proporcionan la base para crear una página web. Aquí tienes un ejemplo de cómo se vería la estructura básica:
+
+![](image-7.png)
+
+### Explicación:
+
+* <!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
+* 
+* <html>: Elemento raíz que engloba todo el contenido HTML.
+* 
+* <head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
+* 
+* <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente utilizado y admite caracteres de diferentes idiomas).
+* 
+* <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
+* 
+* <title>: Define el título de la página que se muestra en la barra de título del navegador.
+* 
+* <body>: Contiene el contenido visible de la página.
+* 
+* <h1>: Encabezado de nivel 1, utilizado para títulos importantes.
+* 
+* <p>: Párrafo, para insertar texto y contenido.
+  
+## <!DOCTYPE html>
+
+La declaración de tipo de documento (DOCTYPE) es una declaración de texto que indica al navegador cómo interpretar el código HTML de una página web. La declaración DOCTYPE debe ser la primera línea de código en un documento HTML.
+
+Hay muchos tipos diferentes de declaraciones DOCTYPE, pero la más común es la siguiente:
+
+![](image-8.png)
+
+Esta declaración DOCTYPE indica al navegador que la página web está escrita en HTML5, la última versión del lenguaje HTML.
+
+La declaración DOCTYPE es importante porque ayuda a garantizar que la página web se muestre correctamente en todos los navegadores. Sin una declaración DOCTYPE válida, el navegador puede no poder interpretar el código HTML de la página web correctamente y la página puede no mostrarse correctamente.
+
+## <html>
+
+La etiqueta HTML <html> es la etiqueta raíz de un documento HTML. Marca el comienzo y el final del documento HTML.
+
+La etiqueta <html> debe ser la primera etiqueta en un documento HTML y debe cerrarse con la etiqueta </html>.
+
+La etiqueta <html> no tiene ningún contenido, pero puede contener las etiquetas <head> y <body>.
+
