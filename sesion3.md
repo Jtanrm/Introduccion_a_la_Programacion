@@ -145,19 +145,19 @@ El código HTML y CSS proporcionado describe un sitio web que trata sobre etique
 
 ### En cuanto al estilo, el CSS define reglas para la apariencia visual del sitio:
 
-La fuente del cuerpo del sitio es Arial o una fuente sans-serif en caso de que Arial no esté disponible.
+* La fuente del cuerpo del sitio es Arial o una fuente sans-serif en caso de que Arial no esté disponible.
 
-El encabezado (<header>) tiene un fondo oscuro, texto blanco y un espacio de relleno.
+* El encabezado (<header>) tiene un fondo oscuro, texto blanco y un espacio de relleno.
 
-Cada sección (<section>) tiene un borde, un espacio de relleno y un margen inferior.
+* Cada sección (<section>) tiene un borde, un espacio de relleno y un margen inferior.
 
-Los encabezados de nivel 1 y 3 están centrados.
+* Los encabezados de nivel 1 y 3 están centrados.
 
-Los encabezados de nivel 2 (<h2>) tienen color azul.
+* Los encabezados de nivel 2 (<h2>) tienen color azul.
 
-El pie de página (<footer>) tiene un fondo oscuro, texto blanco, espacio de relleno y está centrado.
+* El pie de página (<footer>) tiene un fondo oscuro, texto blanco, espacio de relleno y está centrado.
 
-Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multimedia en HTML5, con una estructura semántica que utiliza encabezados, párrafos y secciones para organizar y presentar el contenido. El estilo CSS proporciona una apariencia visual coherente y agradable.
+**Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multimedia en HTML5, con una estructura semántica que utiliza encabezados, párrafos y secciones para organizar y presentar el contenido. El estilo CSS proporciona una apariencia visual coherente y agradable.** 
 
 
 
