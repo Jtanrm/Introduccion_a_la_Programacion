@@ -164,4 +164,91 @@ La etiqueta <head> no contiene ningún contenido, pero puede contener las siguie
 
    **La etiqueta <head> es importante porque ayuda a estructurar un documento HTML y a proporcionar información sobre el documento al navegador.**  
 
-   
+## <body>
+
+La etiqueta HTML <body> es una sección de un documento HTML que contiene el contenido visible de la página web, como el texto, las imágenes y los formularios. La etiqueta <body> debe estar entre las etiquetas <html> y </html>.
+
+
+## Etiquetas <meta>
+
+Las etiquetas meta HTML son etiquetas HTML que proporcionan información adicional sobre una página web. Se utilizan para ayudar a los motores de búsqueda a entender el contenido de una página web y para mostrar la página web en los resultados de búsqueda.
+
+Las etiquetas meta HTML se suelen colocar en la sección <head> de una página web. La sección <head> es la parte de una página web que no se muestra en el navegador web.
+
+Las etiquetas meta HTML se utilizan para proporcionar información sobre una variedad de temas, como el título de la página web, la descripción de la página web, las palabras clave de la página web, la fecha de publicación de la página web, el autor de la página web, y la licencia de la página web.
+
+Las etiquetas meta HTML no son visibles para los usuarios, pero pueden ser muy útiles para los motores de búsqueda y para los usuarios que quieren saber más sobre una página web.
+
+Aquí hay algunos ejemplos de etiquetas meta HTML:
+
+## title
+
+La etiqueta <title> se utiliza para especificar el título de una página web. El título se muestra en la barra de título del navegador web y en los resultados de búsqueda.
+![](image-12.png)
+
+## description
+La etiqueta <meta name="description" content=""> se utiliza para especificar una descripción de una página web. La descripción se muestra en los resultados de búsqueda. 
+
+![](image-13.png)
+
+## keywords
+
+La etiqueta <meta name="keywords" content=""> se utiliza para especificar las palabras clave de una página web. Las palabras clave se utilizan por los motores de búsqueda para encontrar páginas web.
+
+![](image-14.png)
+
+## publication_date
+
+La etiqueta <meta name="publication_date" content=""> se utiliza para especificar la fecha de publicación de una página web. La fecha de publicación se utiliza por los motores de búsqueda para ordenar las páginas web en los resultados de búsqueda.
+
+![](image-15.png)
+
+## author
+
+La etiqueta <meta name="author" content=""> se utiliza para especificar el autor de una página web. El autor se utiliza por los motores de búsqueda para mostrar información sobre el autor de una página web en los resultados de búsqueda.
+
+![](image-16.png)
+
+## license
+
+La etiqueta <meta name="license" content=""> se utiliza para especificar la licencia de una página web. La licencia se utiliza para informar a los usuarios sobre los derechos de autor de una página web.
+
+<meta name="license" content="Creative Commons Attribution-ShareAlike 4.0 International License">
+
+## viewport
+
+El viewport es el área de una página web que se muestra en el navegador. Se puede definir como el área rectangular dentro del navegador que contiene el contenido de la página web. El viewport se puede ajustar en tamaño y posición, y se puede utilizar para mejorar la experiencia de visualización de la página web en diferentes dispositivos. Por ejemplo, la siguiente etiqueta meta HTML viewport establece el viewport en 1000 píxeles de ancho y una escala inicial de 1.5:
+
+![](image-17.png)
+
+## charset
+
+La etiqueta <meta charset="UTF-8"> es una etiqueta HTML que especifica la codificación de caracteres para el documento HTML. Le dice al navegador cómo interpretar el texto en la página para que se muestre correctamente. El atributo charset especifica la codificación de caracteres a utilizar. La codificación de caracteres más común es UTF-8, que puede representar casi todos los caracteres y símbolos del mundo.
+
+![](image-18.png)
+
+Las etiquetas meta HTML son una parte importante del lenguaje HTML. Se utilizan para proporcionar información adicional sobre una página web que puede ser útil para los motores de búsqueda y para los usuarios.
+
+## DESARROLLO
+
+### Actividad: Creando mi primer sitio web
+
+Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los elementos que has aprendido. Personaliza el sitio y utiliza diferentes etiquetas HTML.
+
+Las páginas del sitio serán:
+
+Index o página de inicio
+Acerca
+Contacto
+
+### index.html
+
+![](image-19.png)
+
+about.html
+
+![](image-20.png)
+
+### contact.html
+
+![](image-21.png)
