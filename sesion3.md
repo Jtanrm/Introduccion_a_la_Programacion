@@ -161,5 +161,155 @@ El código HTML y CSS proporcionado describe un sitio web que trata sobre etique
 **Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multimedia en HTML5, con una estructura semántica que utiliza encabezados, párrafos y secciones para organizar y presentar el contenido. El estilo CSS proporciona una apariencia visual coherente y agradable.** 
 
 
+<!DOCTYPE html>
 
+<html>
+
+<head>
+    <title>MUNDO PARANORMAL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: #15259c;
+            color: rgb(8, 8, 8);
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            border: 1px solid #000000;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: rgb(7, 7, 7);
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>MUNDO PARANORMAL</h1>
+        <h3>Tenemos para Colombia en 2023</h3>
+
+        <header>Supuesto viajero del tiempo hizo horribles predicciones para julio, agosto y septiembre</header>
+
+
+    </header>
+
+    <section>
+        <h1>Imagenes</h1>
+        <strong>Esta pagina habla sobre el mundo astral</strong>
+
+        <img src="horoscopo.jpg" alt="" width=" 400">
+        <p>predicciones que lanzaron los astrólogos en materia económica, salud y lo que ocurrirá</p>
+        <h2>se predijo que los científicos finalmente podrán crear la cura para dos tipos de cáncer y comentó este como
+            ocurriría. “Se hace a través de la glándula pituitaria de una ardilla y conducirá al descubrimiento de otras
+            curas para el cáncer.</h2>
+
+        <img src="astrology-history-1.jpg" alt="" width=" 500">
+        <h2>En cuanto al deporte, Mhoni aseguró que nuestro país se llevará el triunfo en la Copa Oro. “Ahora van a
+            estar arriba, vienen cambios importantes en la Selección Mexicana, en cuestiones de jugadores, de capitanes,
+            cambios que van a empezar a traer personas muy valiosas para el Mundial 2026</h2>
+        <p>Ella es colombiana</p>
+
+        <img src="SesioNew.jpg" alt="" width=" 500">
+        <h2>El mundo le dio la bienvenida a 2023 y con el nuevo año, llegan las
+            predicciones el presidente
+            Gustavo Petro durante el año que con apenas comenzar hay buenos mensajes para este mundo, trajo para los
+            colombianos</h2>
+
+        <img src="Dia despertar.avif" alt="" width=" 500">
+        <h2>En diferentes videos el viajero del tiempo ha comentado que viene del año 2671, que mensaje nos dijo</h2>
+        <h3>Tik-Tok es la tendencia en redes</h3>
+        <p>Otra de sus presiones es que 23 de ese mes, un avión de Spirit Airlines sufriría un accidente en la mitad del
+            océano Atlántico. Por último, agregó que el telescopio James Webb el 7 de octubre podrá capturar una
+            “criatura gigante del espacio” absorbiendo la energía de las estrellas cercanas. Esto conducirá a la
+            desaparición de la Tierra y la necesidad de establecerse en otro planeta.</p>
+
+
+    </section>
+
+    <section>
+        <title>Videos</title>
+
+        <video src="fuerza interior.mp4" controls width="500" height="300"></video>
+        <h1>Tu fuerza interior</h1>
+        <p>Tu eres el potencial</p>
+
+
+        <video src="Consulta con el viejo.mp4" controls width="500" height="300"></video>
+        <h1>Consultas gratis con el primer registro</h1>
+        <p>Tenemos la lectura del tarot</p>
+
+
+
+    </section>
+
+    <section>
+        <title>Audios Aqui</title>
+
+
+        <h1>Musica para descansar</h1>
+
+        <audio src="despertar siempre.mp3" controls></audio>
+        <h2>Despertar</h2>
+        <p>Inicia el camino para despertar tus sentidos</p>
+
+        <audio src="dentroBosque.mp3" controls></audio>
+        <h2>Bosque</h2>
+        <p>Aca te traemos el sonido del bosque para disfrutar en armonia</p>
+
+        <audio src="Dia despertar.avif" controls></audio>
+        <h2>Es el nuevo camino del despertar</h2>
+        <p>Vive la vida en amor</p>
+
+        <audio src="Lluvia y noche.mp3" controls></audio>
+        <h2>La lluvia sera el mejor aliado para descansar</h2>
+        <p>Si necesitas la lluvia para dormir, aca la puedes escuchar con un solo clic</p>
+        <h3>lluvia en noche</h3>
+
+    </section>
+
+    <section>
+        <h1>Video</h1>
+
+        <h2>Marina tiene un mensaje para ti</h2>
+        <iframe src="https://www.youtube.com/watch?v=RPU_3YuhaYM" width="500" height="300"></iframe>
+        <p>Consultas mes de agosto</p>
+
+
+        <h2>REVELACIÓN CASO ÁLVARO URIBE VELEZ</h2>
+        <iframe src="https://www.youtube.com/watch?v=F8Y4kwxFODc&t=1s" width="500" height="300"></iframe>
+        <p>En este live te cuento, cómo los astros ven el futuro del reconocido político colombiano Alvaro Uribe Velez,
+            expresidente de Colombia en el periodo 2002 al 2010</p>
+
+
+    </section>
+
+    <footer>
+
+        <br>RODRIGUEZ
+        <br>JHONATAN
+        CESDE
+        <br>Bello
+        <br>
+        &copy;2023
+    </footer>
+
+</body>
+
+</html>
 
