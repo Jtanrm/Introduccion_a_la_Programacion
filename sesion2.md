@@ -123,9 +123,12 @@ Un comentario de varias líneas se vería así:
 
 ## Estructura básica de un documento HTML5
 
-La estructura básica de un documento HTML5 consta de las etiquetas esenciales que proporcionan la base para crear una página web. Aquí tienes un ejemplo de cómo se vería la estructura básica:
+La estructura básica de un documento HTML5 consta de las etiquetas esenciales que proporcionan la base para crear una página web. 
+
+Aquí tienes un ejemplo de cómo se vería la estructura básica:
 
 ![](image-7.png)
+
 
 ### Explicación:
 
@@ -138,9 +141,7 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
  <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente 
     utilizado y admite caracteres de diferentes idiomas).
   
- <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración
-
-    de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
   
  <title>: Define el título de la página que se muestra en la barra de título del navegador.
  
@@ -150,7 +151,7 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
  
  <p>: Párrafo, para insertar texto y contenido.
   
-## <!DOCTYPE html>
+## < !DOCTYPE html >
 
 La declaración de tipo de documento (DOCTYPE) es una declaración de texto que indica al navegador cómo interpretar el código HTML de una página web. La declaración DOCTYPE debe ser la primera línea de código en un documento HTML.
 
