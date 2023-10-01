@@ -38,6 +38,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 ## Plantilla Inicial
 
 <!DOCTYPE html>
+
 <html>
 
 <head>
