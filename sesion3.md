@@ -119,31 +119,31 @@ Considera el uso de <div> para crear secciones o contenedores para tu contenido,
 
 El código HTML y CSS proporcionado describe un sitio web que trata sobre etiquetas multimedia en HTML5. A continuación, se desglosa la semántica y estructura del sitio:
 
-<!DOCTYPE html>: Esto define el tipo de documento como HTML5.
+< !DOCTYPE html>: Esto define el tipo de documento como HTML5.
 
-<html>: La etiqueta raíz que envuelve todo el contenido HTML del sitio.
+< html>: La etiqueta raíz que envuelve todo el contenido HTML del sitio.
 
-<head>: Aquí se encuentran las metainformaciones y enlaces a recursos externos. En este caso, se define el título de la página y se incluye un bloque <style> para agregar reglas de estilo CSS.
+< head>: Aquí se encuentran las metainformaciones y enlaces a recursos externos. En este caso, se define el título de la página y se incluye un bloque <style> para agregar reglas de estilo CSS.
 
-<title>: Establece el título de la página en la pestaña del navegador.
+< title>: Establece el título de la página en la pestaña del navegador.
 
-<style>: Contiene reglas de estilo CSS que afectan al diseño y la apariencia del sitio.
+< style>: Contiene reglas de estilo CSS que afectan al diseño y la apariencia del sitio.
 
-<body>: Aquí se coloca el contenido principal visible de la página.
+< body>: Aquí se coloca el contenido principal visible de la página.
 
-<header>: Sección de encabezado que contiene el título principal y un subtítulo.
+< header>: Sección de encabezado que contiene el título principal y un subtítulo.
 
-<h1> y <h3>: Encabezados de nivel 1 y 3, respectivamente, que proporcionan títulos jerárquicos y estructuran la información del encabezado.
+< h1> y <h3>: Encabezados de nivel 1 y 3, respectivamente, que proporcionan títulos jerárquicos y estructuran la información del encabezado.
 
-<section>: Define una sección de contenido temático. Se utilizan para agrupar información relacionada.
+< section>: Define una sección de contenido temático. Se utilizan para agrupar información relacionada.
 
-<h2>: Encabezado de nivel 2 que se utiliza para los títulos de las secciones de contenido.
+< h2>: Encabezado de nivel 2 que se utiliza para los títulos de las secciones de contenido.
 
-<p>: Párrafo de texto que contiene contenido informativo sobre las imágenes, videos, audios y iframes.
+< p>: Párrafo de texto que contiene contenido informativo sobre las imágenes, videos, audios y iframes.
 
-<footer>: Pie de página que contiene información de autoría y derechos de autor. Incluye saltos de línea <br> para separar las líneas de texto.
+< footer>: Pie de página que contiene información de autoría y derechos de autor. Incluye saltos de línea <br> para separar las líneas de texto.
 
-En cuanto al estilo, el CSS define reglas para la apariencia visual del sitio:
+### En cuanto al estilo, el CSS define reglas para la apariencia visual del sitio:
 
 La fuente del cuerpo del sitio es Arial o una fuente sans-serif en caso de que Arial no esté disponible.
 
