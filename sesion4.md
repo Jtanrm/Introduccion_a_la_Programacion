@@ -18,7 +18,10 @@ Descripción
 Precio
 Stock
 Fecha de creación
+
 Además, combinar celdas en la tabla con los atributos rowspan y colspan, como se muestra en la siguiente imagen.
+
+![](image-22.png)
 
 
 ### RESPUESTA
