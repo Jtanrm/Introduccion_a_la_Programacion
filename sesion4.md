@@ -24,7 +24,6 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 ![](image-22.png)
 
 
-### RESPUESTA
 
 <!DOCTYPE html>
 <html lang="en">
