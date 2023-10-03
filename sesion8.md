@@ -47,7 +47,9 @@ Color gris a los párrafos dentro de un <div>
 
 Centrar el contenido de la sección <section>
 
-## SOLUCION
+## DESARROLLO 
+
+
 
 
 

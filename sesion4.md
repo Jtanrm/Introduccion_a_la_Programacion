@@ -190,5 +190,7 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 </html>
 
 
+![Alt text](image-24.png)
+
 
 
