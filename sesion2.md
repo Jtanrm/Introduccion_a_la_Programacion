@@ -184,9 +184,11 @@ Aquí hay algunos ejemplos de etiquetas meta HTML:
 ## title
 
 La etiqueta <title> se utiliza para especificar el título de una página web. El título se muestra en la barra de título del navegador web y en los resultados de búsqueda.
+
 ![](image-12.png)
 
 ## description
+
 La etiqueta <meta name="description" content=""> se utiliza para especificar una descripción de una página web. La descripción se muestra en los resultados de búsqueda. 
 
 ![](image-13.png)
@@ -243,12 +245,4 @@ Contacto
 
 ### index.html
 
-![](image-19.png)
-
-about.html
-
-![](image-20.png)
-
-### contact.html
-
-![](image-21.png)
+![](image-1.png)
