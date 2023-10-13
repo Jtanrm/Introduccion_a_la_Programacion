@@ -183,7 +183,7 @@ Aquí hay algunos ejemplos de etiquetas meta HTML:
 
 ## title
 
-La etiqueta <title> se utiliza para especificar el título de una página web. El título se muestra en la barra de título del navegador web y en los resultados de búsqueda.
+La etiqueta < title> se utiliza para especificar el título de una página web. El título se muestra en la barra de título del navegador web y en los resultados de búsqueda.
 
 ![](image-12.png)
 
@@ -215,7 +215,7 @@ La etiqueta <meta name="author" content=""> se utiliza para especificar el autor
 
 La etiqueta <meta name="license" content=""> se utiliza para especificar la licencia de una página web. La licencia se utiliza para informar a los usuarios sobre los derechos de autor de una página web.
 
-<meta name="license" content="Creative Commons Attribution-ShareAlike 4.0 International License">
+< meta name="license" content="Creative Commons Attribution-ShareAlike 4.0 International License">
 
 ## viewport
 
@@ -245,4 +245,12 @@ Contacto
 
 ### index.html
 
-![](image-1.png)
+![Alt text](image-27.png)
+
+### about.html
+
+![Alt text](image-28.png)
+
+### contact.html
+
+![Alt text](image-29.png)
