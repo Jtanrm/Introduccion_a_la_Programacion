@@ -13,6 +13,7 @@ Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea
 Requerimientos del proyecto:
 
 Crea un proyecto web de diseño libre.
+
 Documentar el repositorio en el archivo README.md
 
 ## DESARROLLO 
