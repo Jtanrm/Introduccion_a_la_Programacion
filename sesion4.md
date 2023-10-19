@@ -192,6 +192,7 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 
 ![Alt text](image-24.png)
 
+fin
 
 [Siguiente](./sesion5.md)
 
