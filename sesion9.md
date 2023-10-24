@@ -42,17 +42,19 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 ![Alt text](image-36.png)
 
-### Preguntas:
+## Preguntas:
 
-¿Qué es la propiedad margin?
+### ¿Qué es la propiedad margin?
 
-¿Qué es la propiedad padding?
+se utiliza para controlar el espacio alrededor de un elemento. Puedes definir márgenes en la parte superior, derecha, inferior e izquierda del elemento
 
-¿Qué es la propiedad border?
+## ¿Qué es la propiedad padding?
 
-¿Qué es la propiedad border-radius?
+## ¿Qué es la propiedad border?
 
-¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
+## ¿Qué es la propiedad border-radius?
+
+## ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
 
 
 
