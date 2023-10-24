@@ -9,6 +9,7 @@ Objetivo:
 Practicar el uso de las propiedades de espaciado margin, padding, border y border-radius, con diferentes unidades de medida.
 
 1. Crea un nuevo archivo HTML y CSS.
+   
 2. En el archivo HTML, agrega el siguiente código:
 
 ![Alt text](image-30.png)
@@ -21,7 +22,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 5. Practicar el uso de las propiedades de espaciado.
 
- * Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
+6. Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
 
 ![Alt text](image-32.png)
 
