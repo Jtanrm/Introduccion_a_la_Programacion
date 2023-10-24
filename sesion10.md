@@ -169,6 +169,61 @@ Elemento posicionado de forma sticky: El elemento .sticky se posiciona de forma 
 
 ![Alt text](image-46.png)
 
+La propiedad z-index de CSS especifica el orden de apilamiento de un elemento posicionado y sus descendientes. Cuando varios elementos se superponen, los elementos con mayor valor z-index cubren aquellos con menor valor.
+
+El valor de z-index puede ser un número entero positivo o negativo. Un valor de z-index de 0 significa que el elemento se comporta de forma normal, siguiendo el flujo normal del documento.
+
+Por ejemplo, el siguiente código CSS establece el valor z-index de un elemento a 10:
+
+![Alt text](image-47.png)
+
+Este código hará que el elemento .elemento se muestre en la parte superior de cualquier otro elemento posicionado en la página, independientemente de su posición original en el flujo normal del documento.
+
+Aquí hay un ejemplo de cómo se puede usar la propiedad z-index para crear un efecto de tooltip:
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejemplo de z-index</title>
+  <style>
+    .tooltip {
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      z-index: 10;
+      background-color: lightgray;
+      padding: 10px;
+      border-radius: 5px;
+      display: none;
+    }
+
+    .elemento {
+      position: relative;
+      cursor: pointer;
+    }
+
+    .elemento:hover .tooltip {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ejemplo de z-index</h1>
+
+  <div class="elemento">
+    Este es un elemento con un tooltip.
+  </div>
+
+  <div class="tooltip">
+    Este es el contenido del tooltip.
+  </div>
+</body>
+</html>
+
+
+En este ejemplo, el elemento .elemento tiene un tooltip que se muestra cuando el usuario lo pasa el cursor por encima. El tooltip está posicionado de forma absoluta y tiene un valor z-index de 10. Esto significa que el tooltip siempre se mostrará en la parte superior del elemento .elemento, independientemente de su posición original en el flujo normal del documento.
+
+La propiedad z-index es una herramienta poderosa que se puede usar para crear una variedad de efectos de visualización.
 
 
 ----------------------------------------
