@@ -276,8 +276,6 @@ Explicación
 
 7. git push -u origin main: Sube los cambios locales al repositorio remoto en GitHub. El -u establece la rama local main para que haga un seguimiento de la rama remota main en el repositorio remoto. Después de este comando, los cambios y commits locales se copiarán en el repositorio remoto.
 
-
-
 ## Actividad: Proyecto web, git y Github
 
 Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea un proyecto web utilizando la información de las sesiones 1, 2, 3, 4 y 5. Realiza algunas modificaciones al proyecto y sube los cambios al repositorio remoto.
