@@ -272,7 +272,7 @@ Explicación
 
 5. git branch -M main: Cambia el nombre de la rama predeterminada de master a main. GitHub ha estado promoviendo el uso de la terminología más inclusiva y, por lo tanto, este comando se utiliza para actualizar el nombre de la rama principal.
 
-6. git remote add origin https://github.com/xxxxxxx/xxxxx.git: Conecta el repositorio local al repositorio remoto en GitHub. origin es el nombre convencional del control remoto. La URL proporcionada es la ubicación del repositorio remoto.
+6. git remote add origin [](https://github.com/xxxxxxx/xxxxx.git): Conecta el repositorio local al repositorio remoto en GitHub. origin es el nombre convencional del control remoto. La URL proporcionada es la ubicación del repositorio remoto.
 
 7. git push -u origin main: Sube los cambios locales al repositorio remoto en GitHub. El -u establece la rama local main para que haga un seguimiento de la rama remota main en el repositorio remoto. Después de este comando, los cambios y commits locales se copiarán en el repositorio remoto.
 
