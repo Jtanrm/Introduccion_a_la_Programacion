@@ -29,7 +29,7 @@ Además de alojar proyectos de código abierto, GitHub también ofrece planes de
 
 Para instalar Git en diferentes sistemas operativos, puedes seguir los siguientes pasos:
 
-* En Windows: Descarga el instalador de Git desde el sitio web oficial de Git [](https://git-scm.com/download/win) y sigue las instrucciones del instalador.
+* En Windows: Descarga el instalador de Git desde el sitio web oficial de Git [][https://git-scm.com/download/win] y sigue las instrucciones del instalador.
 
 * En macOS: Instala Git utilizando Homebrew [](https://brew.sh/) ejecutando el siguiente comando en la terminal: brew install git
 
@@ -43,7 +43,7 @@ Crea un repositorio Git en GitHub y clonalo en tu computadora local. Luego, crea
 
 * Crea un proyecto web de diseño libre.
 
-* Documentar el repositorio en el archivo README.md
+* Documentar el repositorio en el archivo README. md
 
 
 
