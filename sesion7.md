@@ -3,8 +3,37 @@
 
 ## Sesión 7 
 
+¿Qué es Git?
 
-<!-- Su documentación aquí -->
+[Git](https://git-scm.com/.9)
+
+Git es un sistema de control de versiones de código, que permite a los desarrolladores llevar un registro de los cambios realizados en el código de un proyecto. Con Git, los desarrolladores pueden trabajar de manera colaborativa en un mismo proyecto, mantener diferentes versiones del código, y resolver conflictos de manera eficiente.
+
+Git fue creado en 2005 por Linus Torvalds, el creador del sistema operativo Linux, y se ha convertido en uno de los sistemas de control de versiones más utilizados en el mundo. Con Git, los desarrolladores pueden llevar un registro completo del historial de cambios en el código, revertir a versiones anteriores en caso de ser necesario, y colaborar de manera eficiente con otros desarrolladores en el mismo proyecto.
+
+Git es un software libre y de código abierto, lo que significa que está disponible gratuitamente para todos y que cualquier persona puede contribuir al desarrollo y mejora del software. Además, Git es compatible con una amplia gama de sistemas operativos, incluyendo Windows, MacOS y Linux.
+
+## ¿Qué es GitHub?
+
+[GitHub](https://github.com/.)
+
+GitHub es una plataforma en línea para alojar y colaborar en proyectos de software. Fue fundada en 2008 y es una de las plataformas más populares para alojar proyectos de código abierto.
+
+En GitHub, los desarrolladores pueden crear y alojar proyectos, colaborar con otros desarrolladores en proyectos existentes, hacer seguimiento a errores y problemas, y compartir y discutir ideas.
+
+GitHub utiliza Git, un sistema de control de versiones de software, para llevar un registro de todos los cambios en los proyectos y permitir a los desarrolladores trabajar juntos en un proyecto sin interferir entre sí.
+
+Además de alojar proyectos de código abierto, GitHub también ofrece planes de pago para equipos y organizaciones que desean alojar proyectos privados y obtener más características avanzadas.
+
+## Instalación de Git en diferentes sistemas operativos
+
+Para instalar Git en diferentes sistemas operativos, puedes seguir los siguientes pasos:
+
+* En Windows: Descarga el instalador de Git desde el sitio web oficial de Git (https://git-scm.com/download/win) y sigue las instrucciones del instalador.
+
+* En macOS: Instala Git utilizando Homebrew (https://brew.sh/) ejecutando el siguiente comando en la terminal: brew install git
+
+* En Linux: Utiliza el gestor de paquetes de tu distribución para instalar Git. Por ejemplo, en Ubuntu puedes ejecutar el siguiente comando en la terminal: sudo apt-get install git
 
 ## Actividad: Proyecto web, git y Github
 
