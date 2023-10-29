@@ -3,11 +3,8 @@
 
 ## Sesión 11 
 
+## Actividad: Propiedades CSS, SeudoClases, SeudoElementos y Reglas @css
 
-<!-- Su documentación aquí -->
-
-
-
-
+Crear un documento HTML y probar cada uno de los ejemplos de la sesión 11
 
 

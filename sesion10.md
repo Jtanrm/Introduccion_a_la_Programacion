@@ -226,9 +226,6 @@ En este ejemplo, el elemento .elemento tiene un tooltip que se muestra cuando el
 La propiedad z-index es una herramienta poderosa que se puede usar para crear una variedad de efectos de visualización.
 
 
-----------------------------------------
-
-
 ## Actividad: Propiedades de posicionamiento de CSS
 
 Objetivo:
@@ -243,8 +240,28 @@ Instrucciones:
 
 4. En el archivo CSS, define las propiedades de visualización y posicionamiento de los elementos div.
 
+## DESARROLLO
+
+![Alt text](image-71.png)
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="mi-div-1">Este es el primer div</div>
+    <div class="mi-div-2">Este es el segundo div</div>
+</body>
+</html>
+
+![Alt text](image-72.png)
 
 
 
 
 
+[Siguiente](./sesion11.md)
