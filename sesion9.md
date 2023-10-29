@@ -26,21 +26,21 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 ![Alt text](image-32.png)
 
-* Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
+ * Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
 
 ![Alt text](image-33.png)
 
-* Border: Agrega un borde de 5 píxeles de color rojo.
+ * Border: Agrega un borde de 5 píxeles de color rojo.
 
 ![Alt text](image-34.png)
 
-* Border-radius: Agrega un radio de esquina de 10 píxeles. 
+ * Border-radius: Agrega un radio de esquina de 10 píxeles. 
   
-  ![Alt text](image-35.png)
+![Alt text](image-35.png)
 
-* Unidades de medida: Prueba diferentes unidades de medida para las propiedades de espaciado. Por ejemplo, puedes usar unidades porcentuales (%) para establecer un margen o relleno del 50%.
+ * Unidades de medida: Prueba diferentes unidades de medida para las propiedades de espaciado. Por ejemplo, puedes usar unidades porcentuales (%) para establecer un margen o relleno del 50%.
 
-![Alt text](image-36.png)
+ ![Alt text](image-36.png)
 
 ## Preguntas
 
